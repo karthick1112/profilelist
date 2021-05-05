@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2781ef</color>
+    <color name="colorPrimaryDark">#2781ef</color>
+    <color name="colorAccent">#2781ef</color>
+
+
+    <!-- App customization -->
+    <color name="theme">#1E61B3</color>
+    <color name="theme_top">#029255</color>
+
+    <!-- Button Customization -->
+    <color name="button_text_color">#ffffff</color>
+    <color name="light_pink_color">#005831</color>
+    <color name="light_black_color">#1E817777</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_green_color">#97c93c</color>
+    <color name="white">#ffffff</color>
+    <!-- Navigation drawer Customization-->
+    <color name="black">#000000</color>
+    <color name="nav_body">#ffffff</color>
+    <color name="content_background">#ffffff</color>
+    <color name="transparent_black">#55000000</color>
+    <color name="view">#000000</color>
+    <color name="menu_color">#000000</color>
+    <color name="timer_text_color">#ffffff</color>
+    <color name="view_light">#808080</color>
+    <color name="light_colorblack">#706F6F</color>
+    <color name="d_blue">#0F1F3D</color>
+    <color name="black_text_color">#df000000</color>
+    <color name="light_black">#2F2F2F</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="cancel_ride_color">#B0B0B0</color>
+    <color name="rating_bar_color">#fdd943</color>
+    <color name="rippel_color">#6DCFF6</color>
+    <color name="route_color">#00ff00</color>
+    <color name="progress_bg">#efefef</color>
+    <color name="colorRouteLine">#FF4081</color>
+    <color name="RouteLine">#808080</color>
+    <color name="route">#1D0AE0</color>
+    <color name="bc">#f9fafd</color>
+    <color name="text_color">#000000</color>
+    <color name="fb_blue">#3b5998</color>
+    <color name="gray">#B0B0B0</color>
+    <color name="fbblue1">#03A9F4</color>
+    <color name="lighttheme">#03D678</color>
+    <color name="nv_header">#FF777783</color>
+
+    <color name="grey">#BCBCBC</color>
+    <color name="blue">#1F64A0</color>
+    <color name="fbblue">#2781ef</color>
+    <color name="lightfb">#2781ef</color>
+    <color name="darkgrey1">#191b44</color>
+
+    <color name="darkbg">#1179d8</color>
+    <color name="lightbg">#1577d5</color>
+    <color name="textbg">#077ce1</color>
+    <color name="mbg">#247cd2</color>
+    <color name="textcolor">#3c3d64</color>
+    <color name="bggrey">#f5f5f5</color>
+    <color name="red">#FF0000</color>
+
+
+</resources>
+
+    <!--
+    <color name="colorPrimary">#FF8F88</color>
+    <color name="colorPrimaryDark">#FA9E97</color>-->
